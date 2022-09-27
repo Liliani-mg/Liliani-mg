@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Lilian Irupé Meza
 
 
-![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
-
---
+---
 ### Languages and Tools 🛠 
 
 
@@ -22,6 +20,10 @@
 <br/>
 
 ---
+
+
+![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
+
 
 <!--
 **Liliani-mg/Liliani-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
