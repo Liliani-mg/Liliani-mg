@@ -3,6 +3,8 @@
 
 ![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
 
+![Liliani-mg GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&hide=["stars"]&show_icons=true)
+
 <!--
 **Liliani-mg/Liliani-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
