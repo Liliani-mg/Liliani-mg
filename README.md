@@ -1,7 +1,12 @@
-### Hi there 👋 I'm Lilian Irupé Meza
 
+### Hi there 👋 I'm Lilian Irupé Meza 
 
+<p> <img src="https://komarev.com/ghpvc/?username=Liliani-mg" alt="Liliani-mg" /> </p>
+<a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
+  <img alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> <br/>
 ---
+
 ### Languages and Tools 🛠 
 
 
