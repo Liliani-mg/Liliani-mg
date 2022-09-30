@@ -1,6 +1,7 @@
 
 ### Hello World! 👋 I'm Lilian Irupé Meza 
 
+<h3>More about me: </h3>
 
 <a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
   <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
