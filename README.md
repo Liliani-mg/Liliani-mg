@@ -1,7 +1,7 @@
 
 ### Hello World! 👋 I'm Lilian Irupé Meza 
 
-<p> <img src="https://komarev.com/ghpvc/?username=Liliani-mg" alt="Liliani-mg" /> </p>
+
 <a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
   <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
@@ -33,7 +33,7 @@
 
 ![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
 
-
+<p> <img src="https://komarev.com/ghpvc/?username=Liliani-mg" alt="Liliani-mg" /> </p>
 <!--
 **Liliani-mg/Liliani-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
