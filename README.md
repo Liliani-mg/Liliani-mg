@@ -55,7 +55,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=Liliani-mg" alt="Liliani-mg" /> </p>
 Gracias por visitar mi perfil!! </br>
-<img  height="300px" src="https://i.pinimg.com/originals/ef/36/93/ef3693f233cfa46f61290e5e7386b4db.gif" alt= "img dog"/>
+<img justify-content="right" height="150px" src="https://i.pinimg.com/originals/ef/36/93/ef3693f233cfa46f61290e5e7386b4db.gif" alt= "img dog"/>
 <!--
 **Liliani-mg/Liliani-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
