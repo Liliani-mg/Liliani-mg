@@ -1,14 +1,11 @@
 
-### Hello World! 👋 I'm Lilian Irupé Meza 
+### Hello World! 👋 Soy Lilian Irupé Meza 
 
-<h3>More about me: </h3>
+- Fullstack developer
+- De Argentina al mundo! 🌍
+- Siempre en busca de expandir mis conocimientos, me encanta aprender y enfrentarme a nuevos desafíos.
+- La base de todo: Mantenerse en movimiento 🤸‍♀️
 
-<a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
-  <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-<a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-<img width="40px" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-icono-de-cv.png" alt="image cv"/>
-</a>
 
 ---
 
@@ -29,8 +26,27 @@
 
 <br/>
 
+### Soft Skills 🛠 
+- Trabajo en equipo
+- Empatia
+- Responsilidad
+- Sencilla y creativa
+- Siempre adquiriendo nuevas habilidades </br>
+<img width="200px" src="https://i.gifer.com/Pw5Z.gif"/></br>
+
 ---
 
+
+<h3>Mas sobre mi: </h3>
+
+<a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
+  <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="cat reading"/>
+</a> 
+<a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img width="40px" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-icono-de-cv.png" alt="image cv"/>
+</a>
+
+---
 
 ![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
 
