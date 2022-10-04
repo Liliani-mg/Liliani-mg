@@ -1,10 +1,13 @@
 
 ### Hello World! 👋 Soy Lilian Irupé Meza 
 
+<img src="https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt= "img"/>
+
 - Fullstack developer
 - De Argentina al mundo! 🌍
 - Siempre en busca de expandir mis conocimientos, me encanta aprender y enfrentarme a nuevos desafíos.
 - La base de todo: Mantenerse en movimiento 🤸‍♀️
+- Amante de los animales y la naturaleza
 
 
 ---
@@ -32,7 +35,7 @@
 - Responsilidad
 - Sencilla y creativa
 - Siempre adquiriendo nuevas habilidades </br>
-<img width="200px" src="https://i.gifer.com/Pw5Z.gif"/></br>
+<img src="https://i.gifer.com/Pw5Z.gif" alt="img"/></br>
 
 ---
 
@@ -51,6 +54,8 @@
 ![Liliani-mg GitHub stats](https://github-readme-stats.vercel.app/api?username=Liliani-mg&show_icons=true&theme=dark)
 
 <p> <img src="https://komarev.com/ghpvc/?username=Liliani-mg" alt="Liliani-mg" /> </p>
+Gracias por visitar mi perfil!! </br>
+<img  height="300px" src="https://i.pinimg.com/originals/ef/36/93/ef3693f233cfa46f61290e5e7386b4db.gif" alt= "img dog"/>
 <!--
 **Liliani-mg/Liliani-mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
