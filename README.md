@@ -43,7 +43,7 @@
 <h3>Mas sobre mi: </h3>
 
 <a href="https://www.linkedin.com/in/irupe-meza-gaidtov/">
-  <img alt="Linkdein" width="30px" src="hhttps://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" alt="cat reading"/>
+  <img alt="Linkdein" width="30px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c528.png" alt="cat reading"/>
 </a> 
 <a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <img width="40px" src="https://pngimg.com/uploads/cv/cv_PNG13.png" alt="image cv"/>
