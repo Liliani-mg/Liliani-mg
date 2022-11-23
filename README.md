@@ -48,6 +48,7 @@
 <a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 <img width="40px" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-icono-de-cv.png" alt="image cv"/>
 </a>
+<a href="https://portfolio-lilinani-mg.vercel.app/">Link a portfolio</a>
 
 ---
 
