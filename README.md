@@ -46,9 +46,9 @@
   <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="cat reading"/>
 </a> 
 <a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-<img width="40px" src="https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-icono-de-cv.png" alt="image cv"/>
+<img width="40px" src="https://e7.pngegg.com/pngimages/719/77/png-clipart-curriculum-vitae-job-hunting-resume-employment-cv-text-rectangle.png" alt="image cv"/>
 </a>
-<a href="https://portfolio-lilinani-mg.vercel.app/">Link a portfolio</a>
+<a href="https://portfolio-lilinani-mg.vercel.app/">Portfolio</a>
 
 ---
 
