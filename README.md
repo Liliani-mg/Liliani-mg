@@ -53,9 +53,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irupe-meza-gaidtov/) 
 
 </br>
-<a href= "https://www.canva.com/design/DAFNhZkuBqE/DfKFhOgIS8ewR6zOwEK_fA/view?utm_content=DAFNhZkuBqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-<img width="40px" src="https://pngimg.com/uploads/cv/cv_PNG13.png" alt="image cv"/>
-</a></br>
+
 <a href="https://portfolio-lilinani-mg.vercel.app/">Portfolio</a></br>
 
 ---
